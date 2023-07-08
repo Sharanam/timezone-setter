@@ -1,5 +1,5 @@
 {
-  "name": "timezone-setter",
+  "name": "tzs2",
   "version": "1.0.0",
   "description": "Sets the timezone on Windows",
   "main": "index.js",
@@ -12,12 +12,13 @@
   ],
   "scripts": {
     "nodemon": "nodemon index.js",
+    "start": "node index.js",
     "postinstall": "node index.js"
   },
   "author": "Sharanam",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sharanam/timezone-setter.git"
+    "url": "https://github.com/Sharanam/tzs2.git"
   },
   "license": "ISC",
   "dependencies": {
