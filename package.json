@@ -14,7 +14,11 @@
     "nodemon": "nodemon index.js",
     "postinstall": "node index.js"
   },
-  "author": "Sharanam Chotai",
+  "author": "Sharanam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharanam/timezone-setter.git"
+  },
   "license": "ISC",
   "dependencies": {
     "regedit": "^5.1.2"
