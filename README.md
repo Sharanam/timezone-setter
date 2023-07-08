@@ -13,7 +13,7 @@ npm install TZS2 -g
 Run this command whenever you need to reset the timezone:
 
 ```sh
-tzs
+tzs2
 ```
 
 ## Supported Operating Systems
