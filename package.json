@@ -1,6 +1,6 @@
 {
   "name": "tzs2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sets the timezone on Windows",
   "main": "index.js",
   "keywords": [
